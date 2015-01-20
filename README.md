@@ -4,9 +4,10 @@ lacios-punbb-translations
 Translations for PunBB 1.4.2
 
 *********************************
+Translation for PT-PT by:
 Tradução para PT-PT por:
 
-Nome: jsvenancio
+Name/Nome: jsvenancio
 
-Blog: http://www.obloggueiro.pt/
+Website/Blog: http://www.obloggueiro.pt/
 *********************************
