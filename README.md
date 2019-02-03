@@ -4,11 +4,11 @@ lacios-punbb-translations
 Translations for PunBB 1.4.2
 
 *********************************
-Translation for PT-PT by: <a href="http://webnerd.pt/" rel="nofollow">jsvenancio</a>
+Translation for PT-PT by: <a href="https://github.com/jsvenancio" rel="nofollow">jsvenancio</a>
 
-Tradução para PT-PT por: jsvenancio
+Tradução para PT-PT por: <a href="https://github.com/jsvenancio" rel="nofollow">jsvenancio</a>
 
 Name/Nome: jsvenancio
 
-Website/Blog: http://webnerd.pt/
+Website/Blog: <a href="http://webnerd.pt/" rel="nofollow">Webnerd.pt</a>
 *********************************
