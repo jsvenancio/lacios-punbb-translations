@@ -4,7 +4,7 @@ lacios-punbb-translations
 Translations for PunBB 1.4.2
 
 *********************************
-Translation for PT-PT by: #jsvenancio
+Translation for PT-PT by: jsvenancio
 
 Tradução para PT-PT por: jsvenancio
 
